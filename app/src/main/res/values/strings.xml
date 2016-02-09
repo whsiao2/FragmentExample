@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragment Example</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_switch">Switch</string>
+    <string name="img1">image1</string>
+    <string name="img2">img2</string>
+</resources>
